@@ -1,0 +1,68 @@
+body {
+
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+
+}
+
+body, input, textarea {
+
+	color: #000;
+
+	font: 15px "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+	font-weight: 300;
+
+	line-height: 1.625;
+
+}
+
+body {
+
+	background: #fff;
+
+}
+
+
+
+/* Headings */
+
+h1,h2,h3,h4,h5,h6 {
+
+	clear: both;
+
+}
+
+h1{color:#19497d; font-size:22px;}
+h2{color:#050607; font-size:18px;}
+
+
+
+
+
+/* Text elements */
+
+p {
+
+	margin-bottom: 1.625em; text-align:left;
+
+}
+
+strong {
+
+	font-weight: bold;
+
+}
+
+cite, em, i {
+
+	font-style: italic;
+
+}
+
+
+img:link{text-decoration:none:}
+img:hover{text-decoration:none:}
+img{border:none; text-decoration:none;}
